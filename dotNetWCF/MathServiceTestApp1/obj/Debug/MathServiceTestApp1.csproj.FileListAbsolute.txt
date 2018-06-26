@@ -1,0 +1,9 @@
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\MathServiceTestApp1.exe.config
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\MathServiceTestApp1.exe
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\MathServiceTestApp1.pdb
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTestApp1.Form1.resources
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTestApp1.Properties.Resources.resources
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTestApp1.csproj.GenerateResource.cache
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTestApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTestApp1.exe
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTestApp1.pdb

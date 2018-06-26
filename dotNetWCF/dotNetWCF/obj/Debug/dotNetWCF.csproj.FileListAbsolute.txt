@@ -1,0 +1,7 @@
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\dotNetWCF.dll.config
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\dotNetWCF.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\dotNetWCF.pdb
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\obj\Debug\dotNetWCF.csproj.CoreCompileInputs.cache
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\obj\Debug\dotNetWCF.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\obj\Debug\dotNetWCF.pdb
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\obj\Debug\dotNetWCF.csprojAssemblyReference.cache
