@@ -7,3 +7,15 @@ C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTes
 C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTestApp1.csproj.CoreCompileInputs.cache
 C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTestApp1.exe
 C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTestApp1.pdb
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\DnsClient.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\MongoDB.Bson.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\MongoDB.Driver.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\System.Buffers.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\DnsClient.xml
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\MongoDB.Bson.xml
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\MongoDB.Driver.xml
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTestApp1.csprojAssemblyReference.cache
+C:\Users\Gaben\source\WCF\dotNetWCF\MathServiceTestApp1\obj\Debug\MathServiceTestApp1.csproj.CopyComplete

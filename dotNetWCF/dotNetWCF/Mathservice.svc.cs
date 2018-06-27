@@ -5,6 +5,8 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
 
+
+
 namespace dotNetWCF
 {
     // REMARQUE : vous pouvez utiliser la commande Renommer du menu Refactoriser pour changer le nom de classe "Mathservice" à la fois dans le code, le fichier svc et le fichier de configuration.

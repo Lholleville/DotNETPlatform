@@ -5,3 +5,14 @@ C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\obj\Debug\dotNetWCF.csproj.CoreCom
 C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\obj\Debug\dotNetWCF.dll
 C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\obj\Debug\dotNetWCF.pdb
 C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\obj\Debug\dotNetWCF.csprojAssemblyReference.cache
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\DnsClient.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\MongoDB.Bson.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\MongoDB.Driver.Core.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\MongoDB.Driver.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\System.Buffers.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\DnsClient.xml
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\MongoDB.Bson.xml
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\MongoDB.Driver.xml
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\bin\MongoDB.Driver.Core.xml
+C:\Users\Gaben\source\WCF\dotNetWCF\dotNetWCF\obj\Debug\dotNetWCF.csproj.CopyComplete

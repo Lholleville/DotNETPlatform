@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathServiceTestApp1", "Math
 		{D9DD9620-EC94-4E2C-9E02-4D28ECB6F933} = {D9DD9620-EC94-4E2C-9E02-4D28ECB6F933}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoSharp", "MongoSharp\MongoSharp.csproj", "{4DB8ECA9-67BB-412A-9501-0C9E3A908ACE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{3083E347-DF44-4FF4-903E-A98555777A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3083E347-DF44-4FF4-903E-A98555777A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3083E347-DF44-4FF4-903E-A98555777A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DB8ECA9-67BB-412A-9501-0C9E3A908ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB8ECA9-67BB-412A-9501-0C9E3A908ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB8ECA9-67BB-412A-9501-0C9E3A908ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB8ECA9-67BB-412A-9501-0C9E3A908ACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
