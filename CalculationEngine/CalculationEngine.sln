@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationEngine", "CalculationEngine\CalculationEngine.csproj", "{D2E92AB4-CB99-4CA1-BF84-3B47D2B09FC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoFetcher", "MongoFetcher\MongoFetcher.csproj", "{D39EF57C-3914-4416-B4B7-6021CD7B869E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D2E92AB4-CB99-4CA1-BF84-3B47D2B09FC4} = {D2E92AB4-CB99-4CA1-BF84-3B47D2B09FC4}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E92AB4-CB99-4CA1-BF84-3B47D2B09FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E92AB4-CB99-4CA1-BF84-3B47D2B09FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E92AB4-CB99-4CA1-BF84-3B47D2B09FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E92AB4-CB99-4CA1-BF84-3B47D2B09FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39EF57C-3914-4416-B4B7-6021CD7B869E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39EF57C-3914-4416-B4B7-6021CD7B869E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39EF57C-3914-4416-B4B7-6021CD7B869E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39EF57C-3914-4416-B4B7-6021CD7B869E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24D63750-D96D-46FC-86C0-830A7BAE9955}
+	EndGlobalSection
+EndGlobal

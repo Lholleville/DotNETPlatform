@@ -1,0 +1,7 @@
+c:\users\gaben\source\repos\CalculationEngine\CalculationEngine\bin\CalculationEngine.dll.config
+c:\users\gaben\source\repos\CalculationEngine\CalculationEngine\bin\CalculationEngine.dll
+c:\users\gaben\source\repos\CalculationEngine\CalculationEngine\bin\CalculationEngine.pdb
+c:\users\gaben\source\repos\CalculationEngine\CalculationEngine\obj\Debug\CalculationEngine.csproj.CoreCompileInputs.cache
+c:\users\gaben\source\repos\CalculationEngine\CalculationEngine\obj\Debug\CalculationEngine.dll
+c:\users\gaben\source\repos\CalculationEngine\CalculationEngine\obj\Debug\CalculationEngine.pdb
+C:\Users\Gaben\source\repos\CalculationEngine\CalculationEngine\obj\Debug\CalculationEngine.csprojAssemblyReference.cache
