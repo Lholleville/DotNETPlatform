@@ -15,6 +15,5 @@ c:\users\gaben\source\repos\CalculationEngine\MongoFetcher\obj\Debug\MongoFetche
 c:\users\gaben\source\repos\CalculationEngine\MongoFetcher\obj\Debug\MongoFetcher.csproj.CopyComplete
 c:\users\gaben\source\repos\CalculationEngine\MongoFetcher\obj\Debug\MongoFetcher.exe
 c:\users\gaben\source\repos\CalculationEngine\MongoFetcher\obj\Debug\MongoFetcher.pdb
-c:\users\gaben\source\repos\CalculationEngine\MongoFetcher\obj\Debug\MongoFetcher.csprojAssemblyReference.cache
 c:\users\gaben\source\repos\CalculationEngine\MongoFetcher\bin\Debug\Newtonsoft.Json.dll
 c:\users\gaben\source\repos\CalculationEngine\MongoFetcher\bin\Debug\Newtonsoft.Json.xml

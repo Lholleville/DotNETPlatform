@@ -16,11 +16,8 @@ namespace MongoFetcher
 {
     class Program
     {
-
-
         static void Main(string[] args)
         {
-
             //Init the WCF Calculation Engine 
             CalculationEngineClient MyEngine = new CalculationEngineClient();
 
