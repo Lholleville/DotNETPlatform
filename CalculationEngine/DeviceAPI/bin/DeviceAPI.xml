@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DeviceAPI</name>
+    </assembly>
+    <members>
+        <member name="M:DeviceAPI.Controllers.DevicesController.GetAllDevices">
+            <summary>
+            Retrieves the list of Saved Devices
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DeviceAPI.Controllers.DevicesController.GetDeviceInfo(System.Int64)">
+            <summary>
+            Gives Information about the selected device
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DeviceAPI.Controllers.DevicesController.AddDevice(DeviceAPI.Models.Devices)">
+            <summary>
+            Add a Device
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DeviceAPI.Controllers.DevicesController.UpdateDeviceInfo(DeviceAPI.Models.Devices)">
+            <summary>
+            Modifies the Device information
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DeviceAPI.Controllers.DevicesController.DeleteDevice(System.Int32)">
+            <summary>
+            Deletes a device from the list
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

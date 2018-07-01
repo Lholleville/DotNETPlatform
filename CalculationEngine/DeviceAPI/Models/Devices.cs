@@ -7,9 +7,13 @@ namespace DeviceAPI.Models
 {
     public class Devices
     {
-        public int IdDevice { get; set; }
+        public double IdDevice { get; set; }
         public String Mac { get; set; }
-        public int NoV { get; set; }
-        public int Value { get; set; }
+        public String Name { get; set; }
+        public int Type { get; set; }
+        public double NoV { get; set; }
+        public double Value { get; set; }
+        public double Value2 { get; set; }
+        public int Old { get; set; }
     }
 }
