@@ -20,7 +20,7 @@ namespace CalculationEngine
     {
 
 
-        public double Averager(double[] MyTable)
+        public double Averager(double[] MyTable, int deviceType )
         {
             double MyResult = MyTable.Average();
             BasicHttpBinding binding = new BasicHttpBinding();
@@ -35,6 +35,7 @@ namespace CalculationEngine
 
             var documntDevice = new BsonDocument
             {
+                { "DeviceType", deviceType  },
                 { "Average", MyResult},
                 { "Max", MyTable.Max() },
                 { "Min", MyTable.Min() },

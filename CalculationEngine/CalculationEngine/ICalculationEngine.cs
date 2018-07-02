@@ -12,7 +12,7 @@ namespace CalculationEngine
     public interface ICalculationEngine
     {
         [OperationContract]
-        double Averager(double[] MyTable);
+        double Averager(double[] MyTable, int deviceType);
 
     }
 }
