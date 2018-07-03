@@ -13,8 +13,8 @@ C:\Users\Gaben\source\repos\CalculationEngine\CalculationEngine\bin\MongoDB.Bson
 C:\Users\Gaben\source\repos\CalculationEngine\CalculationEngine\bin\MongoDB.Driver.xml
 C:\Users\Gaben\source\repos\CalculationEngine\CalculationEngine\bin\MongoDB.Driver.Core.xml
 C:\Users\Gaben\source\repos\CalculationEngine\CalculationEngine\bin\Newtonsoft.Json.xml
-C:\Users\Gaben\source\repos\CalculationEngine\CalculationEngine\obj\Debug\CalculationEngine.csprojAssemblyReference.cache
 C:\Users\Gaben\source\repos\CalculationEngine\CalculationEngine\obj\Debug\CalculationEngine.csproj.CoreCompileInputs.cache
 C:\Users\Gaben\source\repos\CalculationEngine\CalculationEngine\obj\Debug\CalculationEngine.csproj.CopyComplete
 C:\Users\Gaben\source\repos\CalculationEngine\CalculationEngine\obj\Debug\CalculationEngine.dll
 C:\Users\Gaben\source\repos\CalculationEngine\CalculationEngine\obj\Debug\CalculationEngine.pdb
+C:\Users\Gaben\source\repos\CalculationEngine\CalculationEngine\obj\Debug\CalculationEngine.csprojAssemblyReference.cache

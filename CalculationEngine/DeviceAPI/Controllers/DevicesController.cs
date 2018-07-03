@@ -50,9 +50,8 @@ namespace DeviceAPI.Controllers
                     if (data.Old == false && alreadyExist == false && alreadyExist1 == false)
                     {
                         //putting the Values into the table 
-                        listDevices.Add(new Devices() { IdDevice = data1.IdDevice, Name = (String)data1.Name, Type = data1.Type, Mac = (String)data1.Mac, NoV = (double)data.NoV, Value = (double)data.Value, Value2 = (double)data.Value2, Old = data.Old });
+                        listDevices.Add(new Devices() { IdDevice = data1.IdDevice, Name = (String)data1.Name, Type = data1.Type, Mac = (String)data1.Mac, NoV = (double)data.NoV, Value = (String)data.Value, Old = data.Old });
                     }
-
                 }
             }
             return listDevices;
@@ -115,17 +114,16 @@ namespace DeviceAPI.Controllers
                     { "Name", DeviceInfo.Name},
                     { "Mac", DeviceInfo.Mac},
                     { "Type",DeviceInfo.Type},
-                    { "DateAdded", date1.ToString("dd/mm/yy HH:mm:ss")}
+                    { "Date", date1.ToString("yyyy-mm-dd HH:mm:ss")},
                 };
             collec1.InsertOneAsync(documntDevice);
             listDevices.Add(DeviceInfo);
             var documnt = new BsonDocument
                     {
                         { "IdDevice", DeviceInfo.IdDevice},
-                        { "Date", date1.ToString("dd/mm/yy HH:mm:ss")},
+                        { "Date", date1.ToString("yyyy-mm-dd HH:mm:ss")},
                         { "NoV", DeviceInfo.NoV },
-                        { "Value", DeviceInfo.Value},
-                        { "Value2",  DeviceInfo.Value2 },
+                        { "Value",DeviceInfo.Value},
                         { "Old", false}
                     };
             collec.InsertOneAsync(documnt);
@@ -159,21 +157,19 @@ namespace DeviceAPI.Controllers
             var documnt = new BsonDocument
                     {
                         { "IdDevice", device.IdDevice },
-                        { "Date", date1.ToString("dd/mm/yy HH:mm:ss")},
+                        { "Date", date1.ToString("yyyy-mm-dd HH:mm:ss")},
                         { "NoV", device.NoV},
                         { "Value", device.Value},
-                        { "Value2",  device.Value2 },
                         { "Old", false}
                     };
             collec.InsertOneAsync(documnt);
 
-            if (device.Name != null || device.Mac != null)
-            {
-                devices.Mac = device.Mac;
-                devices.NoV = device.NoV;
-            }
+            //if (device.Name != null || device.Mac != null)
+            //{
+            //    devices.Mac = device.Mac;
+            //    devices.NoV = device.NoV;
+            //}
             devices.Value = device.Value;
-            device.Value2 = device.Value2;
 
             return new HttpResponseMessage(HttpStatusCode.OK);
         }

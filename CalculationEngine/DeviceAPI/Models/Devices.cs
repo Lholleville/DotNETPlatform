@@ -12,8 +12,7 @@ namespace DeviceAPI.Models
         public String Name { get; set; }
         public int Type { get; set; }
         public double NoV { get; set; }
-        public double Value { get; set; }
-        public double Value2 { get; set; }
+        public String Value { get; set; }
         public int Old { get; set; }
     }
 }

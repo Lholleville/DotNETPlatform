@@ -18,12 +18,12 @@ namespace CalculationEngine
     // REMARQUE : pour lancer le client test WCF afin de tester ce service, sélectionnez CalculationEngine.svc ou CalculationEngine.svc.cs dans l'Explorateur de solutions et démarrez le débogage.
     public class CalculationEngine : ICalculationEngine
     {
+        BasicHttpBinding binding = new BasicHttpBinding();
 
-
-        public double Averager(double[] MyTable, int deviceType )
+        public double Averager(double[] MyTable, int deviceType)
         {
+
             double MyResult = MyTable.Average();
-            BasicHttpBinding binding = new BasicHttpBinding();
             binding.MaxReceivedMessageSize = 2147483647;
 
             //MongoDB connector
@@ -39,9 +39,9 @@ namespace CalculationEngine
                 { "Average", MyResult},
                 { "Max", MyTable.Max() },
                 { "Min", MyTable.Min() },
-                { "TimeStamp", date1.ToString("dd/mm/yy HH:mm:ss")}
+                { "TimeStamp", date1.ToString("yyyy-mm-dd HH:mm:ss")}
             };
-
+            collec.InsertOneAsync(documntDevice);
             return MyResult;
         }
     }

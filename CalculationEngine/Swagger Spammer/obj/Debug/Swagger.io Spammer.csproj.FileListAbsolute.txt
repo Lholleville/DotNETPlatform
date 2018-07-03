@@ -1,0 +1,7 @@
+C:\Users\Gaben\source\repos\CalculationEngine\Swagger Spammer\bin\Debug\Swagger Spammer.exe
+C:\Users\Gaben\source\repos\CalculationEngine\Swagger Spammer\bin\Debug\Swagger Spammer.exe.config
+C:\Users\Gaben\source\repos\CalculationEngine\Swagger Spammer\obj\Debug\Swagger.io Spammer.csproj.CoreCompileInputs.cache
+C:\Users\Gaben\source\repos\CalculationEngine\Swagger Spammer\obj\Debug\Swagger Spammer.exe
+C:\Users\Gaben\source\repos\CalculationEngine\Swagger Spammer\obj\Debug\Swagger Spammer.pdb
+C:\Users\Gaben\source\repos\CalculationEngine\Swagger Spammer\bin\Debug\Swagger Spammer.pdb
+C:\Users\Gaben\source\repos\CalculationEngine\Swagger Spammer\obj\Debug\Swagger.io Spammer.csprojAssemblyReference.cache
